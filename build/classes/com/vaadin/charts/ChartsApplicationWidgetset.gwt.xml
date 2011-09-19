@@ -1,0 +1,6 @@
+<module>
+	<!-- Inherit super widgetset -->
+	<inherits name="com.vaadin.terminal.gwt.DefaultWidgetSet" /> 
+	<inherits name="org.vaadin.gwtgraphics.GWTGraphics"/>
+	<stylesheet src="vaadin-chart/style.css" />
+</module>
